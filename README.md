@@ -16,5 +16,6 @@
    11. `ES_HOST="elastic-serv"` - хост elasticsearch
    12. `ES_PORT=9200` - порт elasticsearch
    13. `LOGGER_LEVEL="INFO"` - уровень логгера
+
 Запустить контейнеры командой `docker-compose up -d`
 ETL запущен!
